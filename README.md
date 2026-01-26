@@ -4,7 +4,7 @@
   <img src="assets/blackhole.gif" alt="Spinning pixel black hole" width="220" />
 </p>
 
-<h1 align="center">Hi there, I'm Varad 👋</h1>
+<h1 align="center">Varad Bendale 👋</h1>
 
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?size=29&duration=3000&color=FFFFFF&center=true&vCenter=true&width=800&height=80&lines=Machine+learning+Reasearch+Enthusiast;Enjoy+DSA+Problems;Deep+Problem-Solving+projects;Want+To+Learn+Everything" />
