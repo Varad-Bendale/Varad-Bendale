@@ -5,6 +5,11 @@
   <img src="https://readme-typing-svg.herokuapp.com?size=32&duration=3000&color=FFFFFF&center=false&vCenter=false&width=800&height=50&lines=Machine+learning+Reasearch+Enthusiast;Enjoy+DSA+Problems;Deep+Problem-Solving+projects;Want+To+Learn+Everything" />
 </p>
 
+<p align="center">
+  <img src="https://media1.giphy.com/media/GyxNKYLrHSeNfPoKOy/giphy.gif" width="1000" alt="Cool GIF" />
+</p>
+
+
 # 📫 Connect With Me
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/varad-bendale)
