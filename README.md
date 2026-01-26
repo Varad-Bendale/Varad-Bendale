@@ -28,11 +28,11 @@
 
 ### 📊 GitHub Stats (Dark Theme)
 
-<p align="center">
+<p align="left">
   <img src="https://github-readme-stats.vercel.app/api?username=Varad-Bendale&show_icons=true&theme=tokyonight" alt="Varad's GitHub stats" />
 </p>
 
-<p align="center">
+<p align="left">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Varad-Bendale&layout=compact&theme=tokyonight" alt="Top Languages" />
 </p>
 
