@@ -1,8 +1,8 @@
 
 
 <h1 align="center">Varad Bendale 👋</h1>
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?size=29&duration=3000&color=FFFFFF&center=true&vCenter=true&width=800&height=80&lines=Machine+learning+Reasearch+Enthusiast;Enjoy+DSA+Problems;Deep+Problem-Solving+projects;Want+To+Learn+Everything" />
+<p align="left">
+  <img src="https://readme-typing-svg.herokuapp.com?size=29&duration=3000&color=FFFFFF&center=false&vCenter=false&width=800&height=80&lines=Machine+learning+Reasearch+Enthusiast;Enjoy+DSA+Problems;Deep+Problem-Solving+projects;Want+To+Learn+Everything" />
 </p>
 
 
@@ -28,7 +28,7 @@
 
 # 📊 GitHub Stats 
 
-<p align="center">
+<p align="left">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Varad-Bendale&layout=compact&theme=tokyonight" alt="Top Languages" />
 </p>
 
