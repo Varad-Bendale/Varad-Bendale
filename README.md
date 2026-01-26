@@ -2,17 +2,15 @@
 
 <h1 align="center">Varad Bendale 👋</h1>
 <p align="left">
-  <img src="https://readme-typing-svg.herokuapp.com?size=29&duration=3000&color=FFFFFF&center=false&vCenter=false&width=800&height=80&lines=Machine+learning+Reasearch+Enthusiast;Enjoy+DSA+Problems;Deep+Problem-Solving+projects;Want+To+Learn+Everything" />
+  <img src="https://readme-typing-svg.herokuapp.com?size=32&duration=3000&color=FFFFFF&center=false&vCenter=false&width=800&height=50&lines=Machine+learning+Reasearch+Enthusiast;Enjoy+DSA+Problems;Deep+Problem-Solving+projects;Want+To+Learn+Everything" />
 </p>
 
-### 📫 Connect With Me
+# 📫 Connect With Me
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/varad-bendale)
 [![LeetCode](https://img.shields.io/badge/LeetCode-0D1117?style=for-the-badge&logo=leetcode&logoColor=white)](https://leetcode.com/u/Kon_shinigami/)
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:varadbendale17@gmail.com)
 
-
----
 # 💻 Tech Stack:
 
 ![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
@@ -36,5 +34,6 @@
 <p align="left">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Varad-Bendale&layout=compact&theme=tokyonight" alt="Top Languages" />
 </p>
----
+
+
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
