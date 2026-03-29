@@ -5,10 +5,9 @@
   <img src="https://readme-typing-svg.herokuapp.com?size=32&duration=3000&color=FFFFFF&center=false&vCenter=false&width=800&height=50&lines=Machine+learning+Reasearch+Enthusiast;Enjoy+DSA+Problems;Deep+Problem-Solving+projects;Want+To+Learn+Everything" />
 </p>
 
-<p align="center">
-  <img src="https://media1.giphy.com/media/GyxNKYLrHSeNfPoKOy/giphy.gif" width="1000" alt="Cool GIF" />
-</p>
-
+<div align="center">
+  <img src="https://media.giphy.com/media/GYB9dW0icvBg4/giphy.gif" width="200" />
+</div>
 
 # 📫 Connect With Me
 
@@ -34,11 +33,7 @@
 ![PowerBI](https://img.shields.io/badge/power_bi-FF5722?style=for-the-badge&logo=powerbi&logoColor=white)
 
 
-# 📊 GitHub Stats 
 
-<p align="left">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Varad-Bendale&layout=compact&theme=tokyonight" alt="Top Languages" />
-</p>
 
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
