@@ -1,6 +1,6 @@
 
 
-<h1 align="center">Varad Bendale 👋</h1>
+<h1 align="center">Varad Bendale </h1>
 <p align="left">
   <img src="https://readme-typing-svg.herokuapp.com?size=32&duration=3000&color=FFFFFF&center=false&vCenter=false&width=800&height=50&lines=Make+systems+which+runs+systems;Make+everything+from+scratch;Enjoy+DSA+Problems;Proeffeciant+in+AI+systems;Want+To+Learn+Everything" />
 </p>
