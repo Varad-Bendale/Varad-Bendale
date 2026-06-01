@@ -9,12 +9,6 @@
   <img src="https://media.giphy.com/media/GYB9dW0icvBg4/giphy.gif" width="200" />
 </div>
 
-# 📫 Connect With Me
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/varad-bendale)
-[![LeetCode](https://img.shields.io/badge/LeetCode-0D1117?style=for-the-badge&logo=leetcode&logoColor=white)](https://leetcode.com/u/Kon_shinigami/)
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:varadbendale17@gmail.com)
-
 
 
 
